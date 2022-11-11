@@ -24,7 +24,7 @@ N/A
 
 ## Screenshots 
 
-![Hotel California Screenshot](assets/images/screenshot.png)
+![Hotel California Screenshot](images/screenshot.png)
 
 
   
